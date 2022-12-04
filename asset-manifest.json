@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/callback-hook/static/css/main.e6c13ad2.css",
+    "main.js": "/callback-hook/static/js/main.fce95d7f.js",
+    "index.html": "/callback-hook/index.html",
+    "main.e6c13ad2.css.map": "/callback-hook/static/css/main.e6c13ad2.css.map",
+    "main.fce95d7f.js.map": "/callback-hook/static/js/main.fce95d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fce95d7f.js"
+  ]
+}
